@@ -15,3 +15,7 @@ After 3 hours of coding, it is finally done!
 > "You do not need to make this project responsive. That means you don’t have to adjust your design for different screen sizes, zoom levels, or mobile devices. For now, just focus on making it look good on a regular computer screen. You’ll learn how to handle different screen sizes later."
 
 - Good because I have no idea how to do responsive layout
+
+> "To share your website with others, you’ll need to deploy it using GitHub Pages."
+
+- Yeah I did it! https://claudere0.github.io/the-odin-project-landing-page/
